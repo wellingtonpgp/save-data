@@ -176,3 +176,7 @@ Minha lista de links descolados de front-end!
 [Namecheap](https://www.namecheap.com/)
 
 [Website Speed Optimization Guide](https://kinsta.com/learn/page-speed/)
+
+## COURSE FREE
+[WHAT THE FLEXBOX?!](https://flexbox.io/)
+[JAVASCRIPT 30 - 30 DAY VANILLA JS CODING CHALLENGE](https://javascript30.com/)
