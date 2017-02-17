@@ -9,6 +9,8 @@ Minha lista de links descolados de front-end!
 
 [Atom Text Editor](https://atom.io/)
 
+[Sublime Text](https://www.sublimetext.com/)
+
 [HTML5 Reference by MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 
 [HTML Entity Reference by CSS-Tricks](https://css-tricks.com/snippets/html/glyphs/)
@@ -182,3 +184,5 @@ Minha lista de links descolados de front-end!
 [WHAT THE FLEXBOX?!](https://flexbox.io/)
 
 [JAVASCRIPT 30 - 30 DAY VANILLA JS CODING CHALLENGE](https://javascript30.com/)
+
+[Começando com React JS](http://jscasts.teachable.com/p/comecando-com-react-js)
