@@ -122,6 +122,8 @@ Minha lista de links descolados de front-end!
 
 [Fontastic](http://fontastic.me/)
 
+[IconFinder](https://www.iconfinder.com)
+
 ##FIND DESIGN INSPIRATION
 [Dribbble](https://dribbble.com/)
 
