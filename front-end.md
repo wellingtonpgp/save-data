@@ -188,3 +188,5 @@ Minha lista de links descolados de front-end!
 [Começando com React JS](http://jscasts.teachable.com/p/comecando-com-react-js)
 
 [The Coding Train](https://www.youtube.com/user/shiffman)
+
+[Mastering Markdown](https://masteringmarkdown.com/)
