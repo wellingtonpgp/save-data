@@ -186,3 +186,5 @@ Minha lista de links descolados de front-end!
 [JAVASCRIPT 30 - 30 DAY VANILLA JS CODING CHALLENGE](https://javascript30.com/)
 
 [Começando com React JS](http://jscasts.teachable.com/p/comecando-com-react-js)
+
+[The Coding Train](https://www.youtube.com/user/shiffman)
