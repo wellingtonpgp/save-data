@@ -4,7 +4,7 @@ Minha lista de links descolados de front-end!
 ![Mestre Yoda](img/yoda.jpg)
 
 
-##HTML5 RESOURCES
+## HTML5 RESOURCES
 [Brackets Text Editor](http://brackets.io/)
 
 [Atom Text Editor](https://atom.io/)
@@ -15,7 +15,7 @@ Minha lista de links descolados de front-end!
 
 [HTML Entity Reference by CSS-Tricks](https://css-tricks.com/snippets/html/glyphs/)
 
-##CSS3 RESOURCES
+## CSS3 RESOURCES
 [CSS3 Reference by MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 
 [CSS3 Reference by Codrops](http://tympanus.net/codrops/css_reference/)
@@ -30,7 +30,7 @@ Minha lista de links descolados de front-end!
 
 [CSS for People Who Hate CSS](http://paulcpederson.com/articles/css-for-people-who-hate-css/)
 
-##JAVASCRIPT RESOURCES
+## JAVASCRIPT RESOURCES
 
 [JavaScript Reference by MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
 
@@ -48,7 +48,7 @@ Minha lista de links descolados de front-end!
 
 [ES6 Browser Compatibility Table](https://kangax.github.io/compat-table/es6/)
 
-##FONTS AND TYPOGRAPHY TOOLS
+## FONTS AND TYPOGRAPHY TOOLS
 [Google Fonts](https://fonts.google.com/)
 
 [Fontsquirrel](https://www.fontsquirrel.com/)
@@ -61,7 +61,7 @@ Minha lista de links descolados de front-end!
 
 [A Pocket Guide to Typography](http://www.typogui.de/)
 
-##GREAT COLORS AND TOOLS
+## GREAT COLORS AND TOOLS
 [Flat UI Colors](http://flatuicolors.com/)
 
 [Material Palette](http://www.materialpalette.com/)
@@ -80,7 +80,7 @@ Minha lista de links descolados de front-end!
 
 [Learn about colors](http://www.rocket-design.fr/color-template/)
 
-##IMAGES AND VIDEOS
+## IMAGES AND VIDEOS
 [Unsplash](https://unsplash.com/)
 
 [The Stocks](http://thestocks.im/)
@@ -103,7 +103,7 @@ Minha lista de links descolados de front-end!
 
 [Canva](https://www.canva.com/)
 
-##BEST ICONS AND TOOLS
+## BEST ICONS AND TOOLS
 [Ionicons](http://ionicons.com/)
 
 [Font Awesome](http://fontawesome.io/)
@@ -135,7 +135,7 @@ Minha lista de links descolados de front-end!
 
 [Media Queries](http://mediaqueri.es/)
 
-##POPULAR BLOGS & COMMUNITIES
+## POPULAR BLOGS & COMMUNITIES
 [Stack Overflow](http://stackoverflow.com/)
 
 [Smashing Magazine](https://www.smashingmagazine.com/)
@@ -152,7 +152,7 @@ Minha lista de links descolados de front-end!
 
 [Designer News](https://www.designernews.co/)
 
-##PLANNING, TESTING, OPTIMIZATION AND DEPLOYMENT
+## PLANNING, TESTING, OPTIMIZATION AND DEPLOYMENT
 [Periodic Table of Web Design Process](https://www.newdesigngroup.ca/website-design/web-design-process-infographic/)
 
 [HTML Validator by W3C](https://validator.w3.org/)
@@ -192,3 +192,5 @@ Minha lista de links descolados de front-end!
 [Mastering Markdown](https://masteringmarkdown.com/)
 
 [Level Up Tutorials](https://leveluptutorials.com/)
+
+[Learning to learn to code](https://code.likeagirl.io/beginners-guide-to-programming-15c06bfc2d72) 
