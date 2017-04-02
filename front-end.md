@@ -154,6 +154,10 @@ Minha lista de links descolados de front-end!
 
 [FrontEnd Focus](http://frontendfocus.co/)
 
+[Front-End Developer Handbook 2017](https://frontendmasters.com/books/front-end-handbook/2017/)
+
+[css-weekly](http://css-weekly.com/archives/)
+
 ## PLANNING, TESTING, OPTIMIZATION AND DEPLOYMENT
 [Periodic Table of Web Design Process](https://www.newdesigngroup.ca/website-design/web-design-process-infographic/)
 
