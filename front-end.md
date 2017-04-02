@@ -122,7 +122,7 @@ Minha lista de links descolados de front-end!
 
 [Fontastic](http://fontastic.me/)
 
-##FIND DESIGN INSPIRATION
+## FIND DESIGN INSPIRATION
 [Dribbble](https://dribbble.com/)
 
 [Land Book](http://land-book.com/)
@@ -151,6 +151,8 @@ Minha lista de links descolados de front-end!
 [Hey Designer](http://heydesigner.com/)
 
 [Designer News](https://www.designernews.co/)
+
+[FrontEnd Focus](http://frontendfocus.co/)
 
 ## PLANNING, TESTING, OPTIMIZATION AND DEPLOYMENT
 [Periodic Table of Web Design Process](https://www.newdesigngroup.ca/website-design/web-design-process-infographic/)
