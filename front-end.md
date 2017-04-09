@@ -200,3 +200,5 @@ Minha lista de links descolados de front-end!
 [Level Up Tutorials](https://leveluptutorials.com/)
 
 [Learning to learn to code](https://code.likeagirl.io/beginners-guide-to-programming-15c06bfc2d72) 
+
+[My giant JavaScript Basics course is now live on YouTube. And it’s 100% free.](https://medium.freecodecamp.com/my-giant-javascript-basics-course-is-now-live-on-youtube-and-its-100-free-9020a21bbc27) 
