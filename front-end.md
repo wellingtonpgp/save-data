@@ -157,6 +157,7 @@ Minha lista de links descolados de front-end!
 [Front-End Developer Handbook 2017](https://frontendmasters.com/books/front-end-handbook/2017/)
 
 [css-weekly](http://css-weekly.com/archives/)
+
 [Mediatemple](http://mediatemple.net/blog/tips/)
 
 ## PLANNING, TESTING, OPTIMIZATION AND DEPLOYMENT
