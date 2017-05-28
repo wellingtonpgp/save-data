@@ -53,7 +53,7 @@ Minha lista de links descolados de front-end!
 
 [Fontsquirrel](https://www.fontsquirrel.com/)
 
-[The 100 best free fonts by Creative Bloq](The 100 best free fonts by Creative Bloq)
+[The 100 best free fonts by Creative Bloq](https://designschool.canva.com/blog/best-free-fonts/)
 
 [MyFonts](http://www.myfonts.com/)
 
@@ -157,6 +157,7 @@ Minha lista de links descolados de front-end!
 [Front-End Developer Handbook 2017](https://frontendmasters.com/books/front-end-handbook/2017/)
 
 [css-weekly](http://css-weekly.com/archives/)
+[Mediatemple](http://mediatemple.net/blog/tips/)
 
 ## PLANNING, TESTING, OPTIMIZATION AND DEPLOYMENT
 [Periodic Table of Web Design Process](https://www.newdesigngroup.ca/website-design/web-design-process-infographic/)
